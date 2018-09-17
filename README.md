@@ -1,2 +1,2 @@
-# koinzbot2
-New version of the original bot for retrieving cryptocurrencies prices
+Welcome to Coin Markets Alert Emitter
+=================
